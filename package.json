@@ -1,0 +1,23 @@
+{
+  "name": "namastareact",
+  "version": "1.0.0",
+  "description": "React project by akshay",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "saurav284"
+  },
+  "author": "saurav",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
